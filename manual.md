@@ -25,5 +25,4 @@ How that would be where there will be a platform with customers, vendors, partne
 - simplicity and value addition demo
 - Making them feel product customizer and one stop solutions of their daily needs
 
-
-![Branch of AI](/AI_Branches.png | width = 100)
+<img src="/AI_Branches.png" alt="drawing" width="500"/>
