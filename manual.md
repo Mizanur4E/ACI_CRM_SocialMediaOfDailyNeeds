@@ -1,6 +1,6 @@
 # ACI CRM Tool: Social Media of Daily Needs
 
-How that would be where there will be a platform with customers, vendors, partners, salesforce, service personnel. The key idea is when all the customers are on same platform and it is easy to let authority know their feelings, opinion, experiences with ACI services and products. It means a hub for all dots connected to ACI. 
+How that would be where there will be a platform with customers, vendors, partners, salesforce, service personnel. The key idea is when all the customers are on same platform and it is easy to let authority know their feelings, opinion, experiences with ACI services and products. It is easy to share thoughts in textual, voice form. It means a hub for all dots connected to ACI that result in signficant data which will offer incredible amout of opportunities.
 
 
 ### What are the benefits?
