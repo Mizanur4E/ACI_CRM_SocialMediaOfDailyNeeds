@@ -26,3 +26,4 @@ How that would be where there will be a platform with customers, vendors, partne
 - Making them feel product customizer and one stop solutions of their daily needs
 
 <img src="/AI_Branches.png" alt="drawing" width="500"/>
+<a href="https://docs.google.com/presentation/d/1ulTAYk_smwyesE9GgChVMUVlIUnY2hskJgm8VujIVAA/edit#slide=id.g1d7df462a24_0_7" >Presentations</a> 
